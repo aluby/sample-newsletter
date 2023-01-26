@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sample Newsletter",
+    "section": "",
+    "text": "This is the landing page for the entire site, and has the blog posts listed underneath"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "",
+    "text": "Upcoming JEDI Events\n\n\n\n\nThe Professional Development Committee meets TODAY/Friday, October 7, 2022 at 4-5pm ET / 1-2pm PT at this zoom link. Please consider joining them on their committee meeting call.\nJEDI 2023 Officer Elections are underway! By now, you should have received a separate email from Donna LaLonde regarding the election procedure and ballot. Please be sure to vote by 11:59pm ET (8:59pm PT) on October 20, 2022.\nWhat are the tips and tricks to be successful with grad school applications in Statistics, Biostatistics, and Data Sciences programs? The JEDI Outreach Group (thanks to our Program & SYP Committees) is hosting a webinar panel on Monday, October 24, 2022 (2-3pm ET / 11am-12pm PT) to address this topic."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "",
+    "text": "Upcoming JEDI Events\n\n\n\n\nJEDI 2023 Officer Elections are underway! Please be sure to vote by 11:59pm ET (8:59pm PT) on October 20, 2022.\nThe Communications Committee meeting will meet on Friday, October 21 at 12:30-1:30 pm ET/9:30 -10:30 am PT at this zoom link: https://washington.zoom.us/j/98161231356 . The meeting agenda will focus on the website redesign.\nThe JEDI Outreach Group (thanks to our Program & SYP Committees) is hosting a webinar panel on Monday, October 24, 2022 (2-3pm ET / 11am-12pm PT) to address this topic. See the attached flyer, and spread the word regarding this great webinar!\nSYP Committee members can join Co-chairs Lydia and Robert for a coffee chat on Wednesday October 26 at 8pm ET/ 5pm PT on the SYP Slack Channel as a follow up to the webinar on the 24th. Contact Lydia lgibson7@horizon.csueastbay.edu or Robert rat2134@cumc.columbia.edu for details. Recall that anyone who is a current student or within five years of completing their last degree is welcome to join the SYP Committee."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is the “about” page"
+  },
+  {
+    "objectID": "posts/welcome/index.html#message-from-chair",
+    "href": "posts/welcome/index.html#message-from-chair",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "Message from Chair",
+    "text": "Message from Chair\n\n\n\nA nice, short note, maybe with a figure?"
+  },
+  {
+    "objectID": "posts/welcome/index.html#calls-for-conferences-papers-and-award-nominations",
+    "href": "posts/welcome/index.html#calls-for-conferences-papers-and-award-nominations",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "Calls for conferences, papers, and award nominations",
+    "text": "Calls for conferences, papers, and award nominations\n\nThe NSF Graduate Research Fellowship Program (GRFP) is now available for applications for the 2023 awards. Interested students should begin at the applicant information page http://www.nsfgrfp.org . The GRFP supports outstanding graduate students in NSF-supported science, technology, engineering, and mathematics disciplines who are pursuing research-based master’s and doctoral degrees at accredited United States institutions. The program provides up to three years of graduate education support, including an annual $37,000 stipend. Applications for Mathematical Sciences topics are due October 21, 2022. US citizens and permanent residents who are planning to enter graduate school in fall 2023 are eligible (as are those in the first two years of such a graduate program, or who are returning to graduate school after being out for two or more years). The program solicitation NSF 22-614 (http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201 ) contains full details. See also the GRFP FAQ document NSF 21-109 (https://www.nsf.gov/pubs/2021/nsf21109/nsf21109.pdf).\nThe Association for Women in Mathematics (AWM) offers NSF-AWM Mentoring Travel Grants for Women whose objective is to help junior women to develop long-term working and mentoring relationships with senior mathematicians. This relationship should help the junior mathematicians to establish their research programs and eventually receive tenure. Each grant funds travel, accommodations, and other required expenses for an untenured woman mathematician to travel to an institute or a department to do research with a specified individual for one month. A maximum of $5000 per award will be funded. See the website for eligibility and other details. Applications are due February 15."
+  },
+  {
+    "objectID": "posts/welcome/index.html#external-webinar-announcements",
+    "href": "posts/welcome/index.html#external-webinar-announcements",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "External Webinar Announcements",
+    "text": "External Webinar Announcements\n\nThe ASA Section for Statistical Programmers and Analysts invites you to join the free zoom webinar on Introduction to Quarto Reports and Notebooks: Literate Computing in R, Python, or Julia.\n\nTime: Friday, October 21, 2022, 8AM – 9PM Pacific / 9AM – 10AM Mountain / 10AM – 11AM Central / 11AM – 12PM Eastern Registration Page: udayton.zoom.us/meeting/register/…\nAudience: R, Python, and Julia users who want to learn the next generation of RMarkdown and/or Jupyter Notebooks\nJupyter and RMarkdown have been the standard for open-source and reproducible data analysis reports for years. Quarto doesn’t change that, but builds on top of their ideals. Quarto is an ‘open-source scientific and technical publishing system’ which uses Pandoc to interleave code and output from R/Python/Julia with Markdown and LaTeX commentary into a single, high-quality report in MS Word, PDF, or HTML formats. This presentation will be a brief (and non-technical) introduction to Quarto. If you would like to follow along, please install the latest version of RStudio (for R users: www.rstudio.com/products/rstudio/download), or install Quarto directly (for Python/Julia users: quarto.org/docs/get-started).\n\nThe ASA Statistical Consulting Section and Pathways to Promotion Committee is offering a free webinar open to all (members and non-members).\n\nTitle: The Art of Negotiating: Growing Your Influence Through Power Skills\nDate: October 27th, 12:00-1:30 PM ET/ 9-10:30am PT\nSpeakers: Dr. Adrian Coles (fellow JEDI), Dr. Leah J. Welty and Ms. Michiko I. Wolcott\nPlease join us for advice from our speakers and a panel discussion. Learn tips on how to negotiate in different aspects by power skills in order to establish a successful collaborative career. To register, please click the link.\n\nThe University of Maryland (in part thanks to the Juanita Tamayo Lott Endowment in Asian American Studies) is hosting “Equity Through Numbers: A Conversation with Robert Santos, Director, U.S. Census Bureau”. This in-person event is scheduled for Monday, November 7, 2022 at 5:30-6:30pm at Frank Auditorium (1524 Van Munching Hall) with reception to follow. See the attached flyer for further details including how to register for this in-person event. We are proud to have both Juanita Lott and Rob Santos as fellow JEDIs!"
+  },
+  {
+    "objectID": "posts/welcome/index.html#job-announcements",
+    "href": "posts/welcome/index.html#job-announcements",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "Job Announcements",
+    "text": "Job Announcements\n\nGrinnell College invites applications for a tenure-track appointment in Statistics or Data Science, beginning Fall 2023. For further details, please visit https://jobs.grinnell.edu."
+  },
+  {
+    "objectID": "posts/welcome/index.html#other-announcements",
+    "href": "posts/welcome/index.html#other-announcements",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "Other Announcements",
+    "text": "Other Announcements\n\nDavid Diez is working to improve the screen reader accessibility of his open source textbook OpenIntro Statistics, and is looking for feedback from instructors or students using screen readers. Anyone interested in participating in this review should contact fellow JEDI Mary Ryan (mary.ryan@yale.edu) by TODAY/October 14, 2022."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#message-from-chair",
+    "href": "posts/post-with-code/index.html#message-from-chair",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "Message from Chair",
+    "text": "Message from Chair\n\n\n\nA nice, short note, maybe with a figure?"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#calls-for-conferences-papers-and-award-nominations",
+    "href": "posts/post-with-code/index.html#calls-for-conferences-papers-and-award-nominations",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "Calls for conferences, papers, and award nominations",
+    "text": "Calls for conferences, papers, and award nominations\n\nThe NSF Graduate Research Fellowship Program (GRFP) is now available for applications for the 2023 awards. Interested students should begin at the applicant information page http://www.nsfgrfp.org . The GRFP supports outstanding graduate students in NSF-supported science, technology, engineering, and mathematics disciplines who are pursuing research-based master’s and doctoral degrees at accredited United States institutions. The program provides up to three years of graduate education support, including an annual $37,000 stipend. Applications for Mathematical Sciences topics are due October 21, 2022. US citizens and permanent residents who are planning to enter graduate school in fall 2023 are eligible (as are those in the first two years of such a graduate program, or who are returning to graduate school after being out for two or more years). The program solicitation NSF 22-614 (http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201 ) contains full details. See also the GRFP FAQ document NSF 21-109 (https://www.nsf.gov/pubs/2021/nsf21109/nsf21109.pdf).\nThe Association for Women in Mathematics (AWM) offers NSF-AWM Mentoring Travel Grants for Women whose objective is to help junior women to develop long-term working and mentoring relationships with senior mathematicians. This relationship should help the junior mathematicians to establish their research programs and eventually receive tenure. Each grant funds travel, accommodations, and other required expenses for an untenured woman mathematician to travel to an institute or a department to do research with a specified individual for one month. A maximum of $5000 per award will be funded. See the website for eligibility and other details. Applications are due February 15.\nThe International Statistical Institute (ISI) is now calling for contributed paper/poster sessions (CPS) for their World Statistics Congress 2023 in Ottawa Canada (July 16-20, 2023). Abstract submissions are due by November 21, 2022. See the conference link for details and to submit. Guidelines for CPS presenters are provided here.\nThe NBER Working Group on Race and Stratification in the Economy invites papers for potential presentation at its third annual conference. The meeting will highlight research on the economics of race and stratification economics. It will consider factors that contribute to racial differences in income, wealth, housing, educational attainment, labor market outcomes, economic mobility, and a range of other measures. The conference will be held in hybrid format on March 31, 2023, with an in-person component in Cambridge, Massachusetts, if public health conditions permit, and a virtual component as well. The NBER welcomes submissions by scholars who are early in their careers, who are not NBER affiliates, and/or who are members of under-represented groups. To be considered for inclusion on the program, completed papers must be uploaded by 11:59pm (EST) on Friday, December 16, 2022, via the following link: https://conference.nber.org/confsubmit/backend/cfp?id=RSs23 . Questions about this conference may be addressed to confer@nber.org. Thanks to fellow JEDI Arthur Kennickell for sharing this information."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#external-webinar-announcements",
+    "href": "posts/post-with-code/index.html#external-webinar-announcements",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "External Webinar Announcements",
+    "text": "External Webinar Announcements\n\nThe ASA Statistical Consulting Section and Pathways to Promotion Committee is offering a free webinar open to all (members and non-members).\n\nTitle: The Art of Negotiating: Growing Your Influence Through Power Skills\nDate: October 27th, 12:00-1:30 PM ET/ 9-10:30am PT\nSpeakers: Dr. Adrian Coles (fellow JEDI), Dr. Leah J. Welty and Ms. Michiko I. Wolcott\nPlease join us for advice from our speakers and a panel discussion. Learn tips on how to negotiate in different aspects by power skills in order to establish a successful collaborative career. To register, please click the link.\n\nThe National Academies Division of Behavioral and Social Sciences and Education is hosting the 2022 Henry and Bryna David Lecture: Where Science and Society Meet” by Dr. Shirley Malcom (AAAS) on Wednesday, October 12, 2022 (5-6:30pm ET) at the National Academy of Sciences (Washington, DC). See this site for details and to register for this in-person event. Thanks to fellow JEDI Arthur Kennickell for sharing this with the membership.\nThe American Educational Research Association (AERA) hosts its 19th annual Brown Lecture in Education Research on November 3, 2022 (6-7:30pm ET/ 3-4:30pm PT). John B. Diamond (Professor of Sociology and Education Policy in Brown University’s Department of Sociology and Annenberg Institute for School Reform) is speaking on “Defending the Color Line: White Supremacy, Opportunity Hoarding and the Legacy of Brown”. See website for more details and to register for this webinar. Thanks to fellow JEDI David Corliss for sharing this information."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#job-announcements",
+    "href": "posts/post-with-code/index.html#job-announcements",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "Job Announcements",
+    "text": "Job Announcements\n\nClaremont McKenna College Department of Mathematical Sciences seeks an Assistant Professor in Probability, Statistics, and Statistical Computing: see https://academicjobsonline.org/ajo/jobs/22155 for details and to apply.\nThe Department of Statistics at the University of California, Riverside has announced positions for two tenure-track assistant professors. See https://aprecruit.ucr.edu/JPF01623 for details and to apply."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#other-announcements",
+    "href": "posts/post-with-code/index.html#other-announcements",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "Other Announcements",
+    "text": "Other Announcements\n\nDavid Diez is working to improve the screen reader accessibility of his open source textbook OpenIntro Statistics, and is looking for feedback from instructors or students using screen readers. Anyone interested in participating in this review should contact fellow JEDI Mary Ryan (mary.ryan@yale.edu) by October 14, 2022."
+  },
+  {
+    "objectID": "posts/2022-10-07/2022-10-07.html",
+    "href": "posts/2022-10-07/2022-10-07.html",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "",
+    "text": "Upcoming JEDI Events\n\n\n\n\nThe Professional Development Committee meets TODAY/Friday, October 7, 2022 at 4-5pm ET / 1-2pm PT at this zoom link. Please consider joining them on their committee meeting call.\nJEDI 2023 Officer Elections are underway! By now, you should have received a separate email from Donna LaLonde regarding the election procedure and ballot. Please be sure to vote by 11:59pm ET (8:59pm PT) on October 20, 2022.\nWhat are the tips and tricks to be successful with grad school applications in Statistics, Biostatistics, and Data Sciences programs? The JEDI Outreach Group (thanks to our Program & SYP Committees) is hosting a webinar panel on Monday, October 24, 2022 (2-3pm ET / 11am-12pm PT) to address this topic."
+  },
+  {
+    "objectID": "posts/2022-10-07/2022-10-07.html#message-from-chair",
+    "href": "posts/2022-10-07/2022-10-07.html#message-from-chair",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "Message from Chair",
+    "text": "Message from Chair\n\n\n\nA nice, short note, maybe with a figure?"
+  },
+  {
+    "objectID": "posts/2022-10-07/2022-10-07.html#calls-for-conferences-papers-and-award-nominations",
+    "href": "posts/2022-10-07/2022-10-07.html#calls-for-conferences-papers-and-award-nominations",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "Calls for conferences, papers, and award nominations",
+    "text": "Calls for conferences, papers, and award nominations\n\nThe NSF Graduate Research Fellowship Program (GRFP) is now available for applications for the 2023 awards. Interested students should begin at the applicant information page http://www.nsfgrfp.org . The GRFP supports outstanding graduate students in NSF-supported science, technology, engineering, and mathematics disciplines who are pursuing research-based master’s and doctoral degrees at accredited United States institutions. The program provides up to three years of graduate education support, including an annual $37,000 stipend. Applications for Mathematical Sciences topics are due October 21, 2022. US citizens and permanent residents who are planning to enter graduate school in fall 2023 are eligible (as are those in the first two years of such a graduate program, or who are returning to graduate school after being out for two or more years). The program solicitation NSF 22-614 (http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201 ) contains full details. See also the GRFP FAQ document NSF 21-109 (https://www.nsf.gov/pubs/2021/nsf21109/nsf21109.pdf).\nThe Association for Women in Mathematics (AWM) offers NSF-AWM Mentoring Travel Grants for Women whose objective is to help junior women to develop long-term working and mentoring relationships with senior mathematicians. This relationship should help the junior mathematicians to establish their research programs and eventually receive tenure. Each grant funds travel, accommodations, and other required expenses for an untenured woman mathematician to travel to an institute or a department to do research with a specified individual for one month. A maximum of $5000 per award will be funded. See the website for eligibility and other details. Applications are due February 15.\nThe International Statistical Institute (ISI) is now calling for contributed paper/poster sessions (CPS) for their World Statistics Congress 2023 in Ottawa Canada (July 16-20, 2023). Abstract submissions are due by November 21, 2022. See the conference link for details and to submit. Guidelines for CPS presenters are provided here.\nThe NBER Working Group on Race and Stratification in the Economy invites papers for potential presentation at its third annual conference. The meeting will highlight research on the economics of race and stratification economics. It will consider factors that contribute to racial differences in income, wealth, housing, educational attainment, labor market outcomes, economic mobility, and a range of other measures. The conference will be held in hybrid format on March 31, 2023, with an in-person component in Cambridge, Massachusetts, if public health conditions permit, and a virtual component as well. The NBER welcomes submissions by scholars who are early in their careers, who are not NBER affiliates, and/or who are members of under-represented groups. To be considered for inclusion on the program, completed papers must be uploaded by 11:59pm (EST) on Friday, December 16, 2022, via the following link: https://conference.nber.org/confsubmit/backend/cfp?id=RSs23 . Questions about this conference may be addressed to confer@nber.org. Thanks to fellow JEDI Arthur Kennickell for sharing this information."
+  },
+  {
+    "objectID": "posts/2022-10-07/2022-10-07.html#external-webinar-announcements",
+    "href": "posts/2022-10-07/2022-10-07.html#external-webinar-announcements",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "External Webinar Announcements",
+    "text": "External Webinar Announcements\n\nThe ASA Statistical Consulting Section and Pathways to Promotion Committee is offering a free webinar open to all (members and non-members).\n\nTitle: The Art of Negotiating: Growing Your Influence Through Power Skills\nDate: October 27th, 12:00-1:30 PM ET/ 9-10:30am PT\nSpeakers: Dr. Adrian Coles (fellow JEDI), Dr. Leah J. Welty and Ms. Michiko I. Wolcott\nPlease join us for advice from our speakers and a panel discussion. Learn tips on how to negotiate in different aspects by power skills in order to establish a successful collaborative career. To register, please click the link.\n\nThe National Academies Division of Behavioral and Social Sciences and Education is hosting the 2022 Henry and Bryna David Lecture: Where Science and Society Meet” by Dr. Shirley Malcom (AAAS) on Wednesday, October 12, 2022 (5-6:30pm ET) at the National Academy of Sciences (Washington, DC). See this site for details and to register for this in-person event. Thanks to fellow JEDI Arthur Kennickell for sharing this with the membership.\nThe American Educational Research Association (AERA) hosts its 19th annual Brown Lecture in Education Research on November 3, 2022 (6-7:30pm ET/ 3-4:30pm PT). John B. Diamond (Professor of Sociology and Education Policy in Brown University’s Department of Sociology and Annenberg Institute for School Reform) is speaking on “Defending the Color Line: White Supremacy, Opportunity Hoarding and the Legacy of Brown”. See website for more details and to register for this webinar. Thanks to fellow JEDI David Corliss for sharing this information."
+  },
+  {
+    "objectID": "posts/2022-10-07/2022-10-07.html#job-announcements",
+    "href": "posts/2022-10-07/2022-10-07.html#job-announcements",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "Job Announcements",
+    "text": "Job Announcements\n\nClaremont McKenna College Department of Mathematical Sciences seeks an Assistant Professor in Probability, Statistics, and Statistical Computing: see https://academicjobsonline.org/ajo/jobs/22155 for details and to apply.\nThe Department of Statistics at the University of California, Riverside has announced positions for two tenure-track assistant professors. See https://aprecruit.ucr.edu/JPF01623 for details and to apply."
+  },
+  {
+    "objectID": "posts/2022-10-07/2022-10-07.html#other-announcements",
+    "href": "posts/2022-10-07/2022-10-07.html#other-announcements",
+    "title": "October 7, 2022: JEDI-related news/updates",
+    "section": "Other Announcements",
+    "text": "Other Announcements\n\nDavid Diez is working to improve the screen reader accessibility of his open source textbook OpenIntro Statistics, and is looking for feedback from instructors or students using screen readers. Anyone interested in participating in this review should contact fellow JEDI Mary Ryan (mary.ryan@yale.edu) by October 14, 2022."
+  },
+  {
+    "objectID": "posts/welcome/2022-10-14.html",
+    "href": "posts/welcome/2022-10-14.html",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "",
+    "text": "Upcoming JEDI Events\n\n\n\n\nJEDI 2023 Officer Elections are underway! Please be sure to vote by 11:59pm ET (8:59pm PT) on October 20, 2022.\nThe Communications Committee meeting will meet on Friday, October 21 at 12:30-1:30 pm ET/9:30 -10:30 am PT at this zoom link: https://washington.zoom.us/j/98161231356 . The meeting agenda will focus on the website redesign.\nThe JEDI Outreach Group (thanks to our Program & SYP Committees) is hosting a webinar panel on Monday, October 24, 2022 (2-3pm ET / 11am-12pm PT) to address this topic. See the attached flyer, and spread the word regarding this great webinar!\nSYP Committee members can join Co-chairs Lydia and Robert for a coffee chat on Wednesday October 26 at 8pm ET/ 5pm PT on the SYP Slack Channel as a follow up to the webinar on the 24th. Contact Lydia lgibson7@horizon.csueastbay.edu or Robert rat2134@cumc.columbia.edu for details. Recall that anyone who is a current student or within five years of completing their last degree is welcome to join the SYP Committee."
+  },
+  {
+    "objectID": "posts/welcome/2022-10-14.html#message-from-chair",
+    "href": "posts/welcome/2022-10-14.html#message-from-chair",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "Message from Chair",
+    "text": "Message from Chair\n\n\n\nA nice, short note, maybe with a figure?"
+  },
+  {
+    "objectID": "posts/welcome/2022-10-14.html#calls-for-conferences-papers-and-award-nominations",
+    "href": "posts/welcome/2022-10-14.html#calls-for-conferences-papers-and-award-nominations",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "Calls for conferences, papers, and award nominations",
+    "text": "Calls for conferences, papers, and award nominations\n\nThe NSF Graduate Research Fellowship Program (GRFP) is now available for applications for the 2023 awards. Interested students should begin at the applicant information page http://www.nsfgrfp.org . The GRFP supports outstanding graduate students in NSF-supported science, technology, engineering, and mathematics disciplines who are pursuing research-based master’s and doctoral degrees at accredited United States institutions. The program provides up to three years of graduate education support, including an annual $37,000 stipend. Applications for Mathematical Sciences topics are due October 21, 2022. US citizens and permanent residents who are planning to enter graduate school in fall 2023 are eligible (as are those in the first two years of such a graduate program, or who are returning to graduate school after being out for two or more years). The program solicitation NSF 22-614 (http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201 ) contains full details. See also the GRFP FAQ document NSF 21-109 (https://www.nsf.gov/pubs/2021/nsf21109/nsf21109.pdf).\nThe Association for Women in Mathematics (AWM) offers NSF-AWM Mentoring Travel Grants for Women whose objective is to help junior women to develop long-term working and mentoring relationships with senior mathematicians. This relationship should help the junior mathematicians to establish their research programs and eventually receive tenure. Each grant funds travel, accommodations, and other required expenses for an untenured woman mathematician to travel to an institute or a department to do research with a specified individual for one month. A maximum of $5000 per award will be funded. See the website for eligibility and other details. Applications are due February 15."
+  },
+  {
+    "objectID": "posts/welcome/2022-10-14.html#external-webinar-announcements",
+    "href": "posts/welcome/2022-10-14.html#external-webinar-announcements",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "External Webinar Announcements",
+    "text": "External Webinar Announcements\n\nThe ASA Section for Statistical Programmers and Analysts invites you to join the free zoom webinar on Introduction to Quarto Reports and Notebooks: Literate Computing in R, Python, or Julia.\n\nTime: Friday, October 21, 2022, 8AM – 9PM Pacific / 9AM – 10AM Mountain / 10AM – 11AM Central / 11AM – 12PM Eastern Registration Page: udayton.zoom.us/meeting/register/…\nAudience: R, Python, and Julia users who want to learn the next generation of RMarkdown and/or Jupyter Notebooks\nJupyter and RMarkdown have been the standard for open-source and reproducible data analysis reports for years. Quarto doesn’t change that, but builds on top of their ideals. Quarto is an ‘open-source scientific and technical publishing system’ which uses Pandoc to interleave code and output from R/Python/Julia with Markdown and LaTeX commentary into a single, high-quality report in MS Word, PDF, or HTML formats. This presentation will be a brief (and non-technical) introduction to Quarto. If you would like to follow along, please install the latest version of RStudio (for R users: www.rstudio.com/products/rstudio/download), or install Quarto directly (for Python/Julia users: quarto.org/docs/get-started).\n\nThe ASA Statistical Consulting Section and Pathways to Promotion Committee is offering a free webinar open to all (members and non-members).\n\nTitle: The Art of Negotiating: Growing Your Influence Through Power Skills\nDate: October 27th, 12:00-1:30 PM ET/ 9-10:30am PT\nSpeakers: Dr. Adrian Coles (fellow JEDI), Dr. Leah J. Welty and Ms. Michiko I. Wolcott\nPlease join us for advice from our speakers and a panel discussion. Learn tips on how to negotiate in different aspects by power skills in order to establish a successful collaborative career. To register, please click the link.\n\nThe University of Maryland (in part thanks to the Juanita Tamayo Lott Endowment in Asian American Studies) is hosting “Equity Through Numbers: A Conversation with Robert Santos, Director, U.S. Census Bureau”. This in-person event is scheduled for Monday, November 7, 2022 at 5:30-6:30pm at Frank Auditorium (1524 Van Munching Hall) with reception to follow. See the attached flyer for further details including how to register for this in-person event. We are proud to have both Juanita Lott and Rob Santos as fellow JEDIs!"
+  },
+  {
+    "objectID": "posts/welcome/2022-10-14.html#job-announcements",
+    "href": "posts/welcome/2022-10-14.html#job-announcements",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "Job Announcements",
+    "text": "Job Announcements\n\nGrinnell College invites applications for a tenure-track appointment in Statistics or Data Science, beginning Fall 2023. For further details, please visit https://jobs.grinnell.edu."
+  },
+  {
+    "objectID": "posts/welcome/2022-10-14.html#other-announcements",
+    "href": "posts/welcome/2022-10-14.html#other-announcements",
+    "title": "October 14, 2022: JEDI-related news/updates",
+    "section": "Other Announcements",
+    "text": "Other Announcements\n\nDavid Diez is working to improve the screen reader accessibility of his open source textbook OpenIntro Statistics, and is looking for feedback from instructors or students using screen readers. Anyone interested in participating in this review should contact fellow JEDI Mary Ryan (mary.ryan@yale.edu) by TODAY/October 14, 2022."
+  }
+]

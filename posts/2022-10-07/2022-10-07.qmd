@@ -1,0 +1,54 @@
+---
+title: "October 7, 2022: JEDI-related news/updates"
+author: "Kimberly F. Sellers"
+date: "2022-10-07"
+categories: [news]
+---
+
+::: {.column-margin}
+::: {.callout-note icon=false}
+
+## Upcoming JEDI Events  
+
+- The Professional Development Committee meets TODAY/Friday, October 7, 2022 at 4-5pm ET / 1-2pm PT at this zoom link. Please consider joining them on their committee meeting call.
+- JEDI 2023 Officer Elections are underway! By now, you should have received a separate email from Donna LaLonde regarding the election procedure and ballot. Please be sure to vote by 11:59pm ET (8:59pm PT) on October 20, 2022.
+- What are the tips and tricks to be successful with grad school applications in Statistics, Biostatistics, and Data Sciences programs? The JEDI Outreach Group (thanks to our Program & SYP Committees) is hosting a webinar panel on Monday, October 24, 2022 (2-3pm ET / 11am-12pm PT) to address this topic.
+
+:::
+:::
+
+## Message from Chair
+
+::: {layout-ncol=2}
+A nice, short note, maybe with a figure? 
+
+![](thumbnail.jpg)
+:::
+
+## Calls for conferences, papers, and award nominations
+
+- The NSF Graduate Research Fellowship Program (GRFP) is now available for applications for the 2023 awards. Interested students should begin at the applicant information page <http://www.nsfgrfp.org> . The GRFP supports outstanding graduate students in NSF-supported science, technology, engineering, and mathematics disciplines who are pursuing research-based master's and doctoral degrees at accredited United States institutions. The program provides up to three years of graduate education support, including an annual $37,000 stipend. Applications for Mathematical Sciences topics are due October 21, 2022. US citizens and permanent residents who are planning to enter graduate school in fall 2023 are eligible (as are those in the first two years of such a graduate program, or who are returning to graduate school after being out for two or more years). The program solicitation NSF 22-614 (<http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201> ) contains full details. See also the GRFP FAQ document NSF 21-109 (<https://www.nsf.gov/pubs/2021/nsf21109/nsf21109.pdf>).
+- The Association for Women in Mathematics (AWM) offers NSF-AWM Mentoring Travel Grants for Women whose objective is to help junior women to develop long-term working and mentoring relationships with senior mathematicians. This relationship should help the junior mathematicians to establish their research programs and eventually receive tenure. Each grant funds travel, accommodations, and other required expenses for an untenured woman mathematician to travel to an institute or a department to do research with a specified individual for one month. A maximum of $5000 per award will be funded. See the website for eligibility and other details. Applications are due February 15.
+- The International Statistical Institute (ISI) is now calling for contributed paper/poster sessions (CPS) for their World Statistics Congress 2023 in Ottawa Canada (July 16-20, 2023). Abstract submissions are due by November 21, 2022. See the conference link for details and to submit. Guidelines for CPS presenters are provided here.
+- The NBER Working Group on Race and Stratification in the Economy invites papers for potential presentation at its third annual conference.  The meeting will highlight research on the economics of race and stratification economics. It will consider factors that contribute to racial differences in income, wealth, housing, educational attainment, labor market outcomes, economic mobility, and a range of other measures. The conference will be held in hybrid format on March 31, 2023, with an in-person component in Cambridge, Massachusetts, if public health conditions permit, and a virtual component as well. The NBER welcomes submissions by scholars who are early in their careers, who are not NBER affiliates, and/or who are members of under-represented groups. To be considered for inclusion on the program, completed papers must be uploaded by 11:59pm (EST) on Friday, December 16, 2022, via the following link: <https://conference.nber.org/confsubmit/backend/cfp?id=RSs23> . Questions about this conference may be addressed to <confer@nber.org>. Thanks to fellow JEDI Arthur Kennickell for sharing this information.
+
+## External Webinar Announcements 
+
+
+- The ASA Statistical Consulting Section and Pathways to Promotion Committee is offering a free webinar open to all (members and non-members).
+    - Title:  The Art of Negotiating: Growing Your Influence Through Power Skills
+    - Date:  October 27th, 12:00-1:30 PM ET/ 9-10:30am PT
+    - Speakers: Dr. Adrian Coles (fellow JEDI), Dr. Leah J. Welty and Ms. Michiko I. Wolcott
+    - Please join us for advice from our speakers and a panel discussion. Learn tips on how to negotiate in different aspects by power skills in order to establish a successful collaborative career. To register, please click the link.
+- The National Academies Division of Behavioral and Social Sciences and Education is hosting the 2022 Henry and Bryna David Lecture: Where Science and Society Meet" by Dr. Shirley Malcom (AAAS) on Wednesday, October 12, 2022 (5-6:30pm ET) at the National Academy of Sciences (Washington, DC). See this site for details and to register for this in-person event. Thanks to fellow JEDI Arthur Kennickell for sharing this with the membership.
+- The American Educational Research Association (AERA) hosts its 19th annual Brown Lecture in Education Research on November 3, 2022 (6-7:30pm ET/ 3-4:30pm PT). John B. Diamond (Professor of Sociology and Education Policy in Brown University's Department of Sociology and Annenberg Institute for School Reform) is speaking on "Defending the Color Line: White Supremacy, Opportunity Hoarding and the Legacy of Brown". See website for more details and to register for this webinar. Thanks to fellow JEDI David Corliss for sharing this information. 
+
+## Job Announcements
+
+- Claremont McKenna College Department of Mathematical Sciences seeks an Assistant Professor in Probability, Statistics, and Statistical Computing: see https://academicjobsonline.org/ajo/jobs/22155 for details and to apply.
+- The Department of Statistics at the University of California, Riverside has announced positions for two tenure-track assistant professors. See https://aprecruit.ucr.edu/JPF01623 for details and to apply.
+
+## Other Announcements
+
+- David Diez is working to improve the screen reader accessibility of his open source textbook OpenIntro Statistics, and is looking for feedback from instructors or students using screen readers. Anyone interested in participating in this review should contact fellow JEDI Mary Ryan (<mary.ryan@yale.edu>) by October 14, 2022.
+
